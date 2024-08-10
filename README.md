@@ -10,7 +10,7 @@
    
    
    
- MI.RICHY BUG BOT
+👿 MI.RICHY BUG BOT 👿
 ### this code copy from dj xeon  all credits for him
 
 ```
