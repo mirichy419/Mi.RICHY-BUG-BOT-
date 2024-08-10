@@ -39,7 +39,7 @@ termux-setup-storage
 ```
 
 ```
-git clone https://github.com/prexzybooster/PREXZY-BUG-BOT 
+git clone https://github.com/mirichy419/Mi.RICHY/import-BUG-BOT 
 ```
 ```
  cd MI.RICHY-BUG-BOT
